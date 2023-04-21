@@ -67,9 +67,9 @@ export default function SectionWidgets() {
                 description="view all posts >>"                      
                 />
             </div>
-            <div className='justify-self-end ' >
+            <div className='text-start w-[500px] pr-[20px]' >
                 <TitleSection                 
-                description="view all But you're good, Marty, you're really good. And this audition tape of your is great, you gotta send it in to the record company. It's like Doc's always saying. Oh, what I meant to day was- I got enough practical jokes for one evening. Good night, futhgfposts >>"                      
+                description="view all But you're good, Marty, you're really good. And this audition tape of your is great, you gotta send it in to the record company."                      
                 />
             </div>          
         </div>

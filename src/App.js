@@ -4,6 +4,7 @@ import Card from './component/cards/Card';
 import CardTemplate from './component/cards/CardTemplate';
 import Hero from './component/hero/Hero';
 import Navbar from './component/navigation/Navbar';
+import SectionFaqs from './component/SectionFaqs';
 import SectionFeatures from './component/SectionFeatures.js';
 import SectionInsideTemplate from './component/SectionInsideTemplate.js';
 import SectionTemplate from './component/SectionInsideTemplate.js';
@@ -19,6 +20,7 @@ function App() {
       <Card/>
       <CardTemplate/>
       <SectionWidgets/>
+      <SectionFaqs/>
     </main>
     
     <p className="text-red-500" ></p>

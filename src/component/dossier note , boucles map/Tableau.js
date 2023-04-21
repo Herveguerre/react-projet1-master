@@ -9,6 +9,8 @@
 // faire du css et voir si on importe que dans App.js l'importe aussi dans tout les autres , sinon eventuelement cree un fichier  
 // css par fichier js . ou l'importer sur chaque fichier js , avoir au plus simple ...
 // voir si on peut directement cree une base de donnee sql pour evite de faire deux fois les choses 
+
+// les if sont ecrit avant le return 
 export const dataCards=[
 {
     title:"blabla",

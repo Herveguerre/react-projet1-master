@@ -57,9 +57,10 @@ export default function SectionInsideTemplate() {
               titleCard='Nulla omittan sadipscing mel ne'/>
             </div>
           </div>
-          <div className='flex pt-20' >
-          
-            <div><CardTemplate
+          <div className='flex pt-20 content-center ' >
+            <div className='bg-gray-900 pl-2 h-full w-[100px]' ></div>
+            <div className='' >
+              <CardTemplate
                 titleCardTemplate='Get your dream website up and running in no time with AstroWind.'/>
                 <Card
               titleCard='step 1:downlod'
