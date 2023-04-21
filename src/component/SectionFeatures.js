@@ -22,36 +22,36 @@ export default function SectionFeatures() {
       </div>
     <div className="flex" >
       <div className="">
-          <div> 
+          <div className="" > 
             <Card className="text-start" 
-            titleCard="astro + tailwind css integration" descriptionCard="AstroWind made with a real css is much more joi and more proffesional" />
+            titleCard="&#x267C;astro + tailwind css integration" descriptionCard="AstroWind made with a real css is much more joi and more proffesional" />
           </div>
           <div> 
             <Card 
-            titleCard="ready to use components"
+            titleCard="&#x267C;ready to use components"
             descriptionCard="AstroWind made with a real css is much more joi and more proffesional" />
           </div>
           <div> 
             <Card 
-            titleCard="best practices" 
+            titleCard="&#x267C;best practices" 
             descriptionCard="AstroWind made with a real css is much more joi and more proffesional" />
           </div>
       </div>
       <div className="">
         <div> 
           <Card 
-            titleCard="excellent page speed" 
+            titleCard="&#x267C;excellent page speed" 
           descriptionCard="AstroWind made with a real css is much more joi    and      more proffesional" />
         </div>
         <div> 
           <Card 
-          titleCard="seazrch engine optimisation (seo)"
+          titleCard="&#x267C;seazrch engine optimisation (seo)"
           descriptionCard="AstroWind made with a real css is much more joi and more proffesional"
           />
         </div>
         <div> 
           <Card
-          titleCard="open to new ideas and contributions"
+          titleCard="&#x267C;open to new ideas and contributions"
           descriptionCard="AstroWind made with a real css is much more joi and more proffesional"
           />
         </div>

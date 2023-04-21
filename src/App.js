@@ -7,6 +7,7 @@ import Navbar from './component/navigation/Navbar';
 import SectionFeatures from './component/SectionFeatures.js';
 import SectionInsideTemplate from './component/SectionInsideTemplate.js';
 import SectionTemplate from './component/SectionInsideTemplate.js';
+import SectionWidgets from './component/SectionWidgets';
 function App() {
   return (
     <div className="">
@@ -17,6 +18,7 @@ function App() {
       <SectionInsideTemplate/>
       <Card/>
       <CardTemplate/>
+      <SectionWidgets/>
     </main>
     
     <p className="text-red-500" ></p>
