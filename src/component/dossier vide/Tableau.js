@@ -1,7 +1,7 @@
 //src/data/datacardsFeatures.js
 //cree une boucle pour appeler les datas  
 //ne pas oublier de faire export de la data : 
-//chercher les icons sur iconreact 
+//chercher les icons sur iconreact              <img src="../img/   .jpg" alt="ne pas oublier pour google" /> 
 
 export const dataCards=[
 {
