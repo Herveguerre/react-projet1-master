@@ -1,6 +1,7 @@
 //src/data/datacardsFeatures.js
 //cree une boucle pour appeler les datas  
 //ne pas oublier de faire export de la data : 
+//chercher les icons sur iconreact 
 
 export const dataCards=[
 {
@@ -17,6 +18,7 @@ description:"blabla"
 {
 dataCards.map((item)=>
 <cardFeatures
+key='{index}'//pour definir la clé qui doit etre unique 
 icon='{item.icon}'
 title='{item.title}'
 description='{item.description}'

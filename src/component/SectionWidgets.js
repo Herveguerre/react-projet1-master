@@ -13,39 +13,48 @@ export default function SectionWidgets() {
 
         <div className='justify-center bg-blue-100  m-2 grid grid-cols-3'>
             <CardWidgets
-            titleWidgets='&#x2601; Header'
+            icons='&#x2685;'
+            titleWidgets=' Header'
             descriptionWidgets="loreBut you're godykjhyi ujod, "
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Hero'
             descriptionWidgets="lorem10 loreBut you're godykjhyi ujod,"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Features'
             descriptionWidgets="lorem10loreBut you're godykjhyi ujod,"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Content'
             descriptionWidgets="lorem1loreBut you're godykjhyi ujod,0"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Call-to-Action'
             descriptionWidgets="loremloreBut you're godykjhyi ujod,10"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Pricing'
             descriptionWidgets="loremloreBut you're godykjhyi ujod,10"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Testimonial'
             descriptionWidgets="loremloreBut you're godykjhyi ujod,10"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Contact'
             descriptionWidgets="loremloreBut you're godykjhyi ujod,10"
             />
             <CardWidgets
-            titleWidgets='&#x2601;Header'
+            icons='&#x2685;'
+            titleWidgets=' Footer'
             descriptionWidgets="loremloreBut you're godykjhyi ujod,10"
             />
 
